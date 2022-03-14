@@ -1,0 +1,6 @@
+# PyTAS Libraries
+core/
+output/
+
+# Misc.
+.DS_Store
