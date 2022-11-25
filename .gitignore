@@ -2,5 +2,9 @@
 core/
 output/
 
+# Tests
+test*/
+test*.*
+
 # Misc.
 .DS_Store
